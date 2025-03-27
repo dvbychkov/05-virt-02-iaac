@@ -4,6 +4,7 @@
 --- 
 Задача 1
 
+
 vm1@vm1:~/Загрузки$ vboxmanage --version
 6.1.38_Ubuntur153438
 vm1@vm1:~/Загрузки$
